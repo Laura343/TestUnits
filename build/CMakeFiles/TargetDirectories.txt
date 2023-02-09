@@ -1,8 +1,0 @@
-C:/Users/User/ACA/Project1/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/User/ACA/Project1/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/ACA/Project1/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/User/ACA/Project1/build/src/CMakeFiles/RUN_TESTS.dir
-C:/Users/User/ACA/Project1/build/src/lib/CMakeFiles/lib.dir
-C:/Users/User/ACA/Project1/build/src/lib/CMakeFiles/RUN_TESTS.dir
-C:/Users/User/ACA/Project1/build/tests/CMakeFiles/lib_test.dir
-C:/Users/User/ACA/Project1/build/tests/CMakeFiles/RUN_TESTS.dir
